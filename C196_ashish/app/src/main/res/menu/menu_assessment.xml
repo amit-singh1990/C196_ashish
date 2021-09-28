@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Delete Assessment"
+          android:id="@+id/deleteAssessmentButton"/>
+    <item android:title="Notify"
+          android:id="@+id/notifyAssessment" />
+</menu>
